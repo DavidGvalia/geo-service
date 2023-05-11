@@ -1,4 +1,4 @@
-package ru.netology.geo;
+package ru.netology.localization;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
